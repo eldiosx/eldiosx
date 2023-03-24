@@ -1,6 +1,5 @@
 <h1 align="center">About eldiosx</h1>
 
-<div align="center">
 <div>
 <h2>contact:</h2>
  
@@ -22,4 +21,3 @@
 
 
  
-</div>
