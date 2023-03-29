@@ -1,9 +1,10 @@
 <h1 align="center">About eldiosx</h1> 
 
+[![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)]
+
 <div>
 <h2>Contact:</h2>
  
-![example](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://www.signal.org/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.proton.me/)
 
