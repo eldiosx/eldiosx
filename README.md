@@ -1,6 +1,6 @@
 <h1 align="center">About eldiosx</h1> 
 
-<p>![example](https://img.shields.io/github/followers/{eldiosx}.svg?style=social&label=Follow&maxAge=2592000)</p>
+<p> ![example](https://img.shields.io/github/followers/{eldiosx}.svg?style=social&label=Follow&maxAge=2592000) </p>
 
 <div>
 <h2>Contact:</h2>
