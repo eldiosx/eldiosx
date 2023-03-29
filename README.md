@@ -1,6 +1,6 @@
 <h1 align="center">About eldiosx</h1> 
 
-![example workflow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)
+![example workflow](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
 
 <div>
 <h2>Contact:</h2>
