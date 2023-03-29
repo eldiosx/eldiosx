@@ -24,4 +24,8 @@ De chill bro: ![Follow](https://img.shields.io/github/followers/eldiosx.svg?styl
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linux.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.linux.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linux.org/)
+
+ <h3>Stats:</h3>
+[![Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]
+[![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
  
