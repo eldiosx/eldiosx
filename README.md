@@ -26,6 +26,7 @@ De chill bro: ![Follow](https://img.shields.io/github/followers/eldiosx.svg?styl
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linux.org/)
 
  <h3>Stats:</h3>
+ 
 [![Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]
 [![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
  
