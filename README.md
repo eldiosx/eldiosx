@@ -1,5 +1,6 @@
 <h1 align="center">About eldiosx</h1> 
-[!(https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)]
+
+![example workflow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)
 
 <div>
 <h2>Contact:</h2>
@@ -23,5 +24,4 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linux.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.linux.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linux.org/)
-[!(https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)]
  
