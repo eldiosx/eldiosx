@@ -50,6 +50,6 @@
 
  <h3>Stats:</h3>
  
-![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green) 
+![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
 ![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&theme=blue-green)
  
