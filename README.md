@@ -1,6 +1,6 @@
 <h1 align="center">About eldiosx</h1>
 
-[![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eldiosx/CV)
+[![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eldiosx)
 
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/eldiosx/CV) 
 
