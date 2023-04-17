@@ -1,5 +1,4 @@
-<h1 align="center">About eldiosx</h1> Follow me chill bro: ![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)
-
+<h1 align="center">About eldiosx Follow me chill bro: ![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000) </h1>
 
 
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/eldiosx/CV) 
