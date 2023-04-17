@@ -2,7 +2,7 @@
 
 [![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eldiosx)
 
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.github.io/CV/) 
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.github.io/cv/) 
 
 <div>
 <h2>Contact:</h2>
