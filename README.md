@@ -1,4 +1,6 @@
-<h1 align="center">About eldiosx</h1>
+<h1 align="center" href="https://github.com/eldiosx">
+<img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=About+eldiosx" alt="Typing SVG" />
+</h1>
 
 [![Follow](https://img.shields.io/github/followers/eldiosx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eldiosx)
 
@@ -50,6 +52,5 @@
 
  <h3>Stats:</h3>
  
-![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
 ![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&theme=blue-green)
- 
+![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
