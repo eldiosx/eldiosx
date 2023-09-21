@@ -72,6 +72,13 @@
 
 
 ## Stats:
+
+<div align="center">
  
 ![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&theme=blue-green)
+
+<br>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
+
+</div>
