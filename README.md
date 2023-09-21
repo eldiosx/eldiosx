@@ -7,6 +7,7 @@
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.github.io/cv/) 
 
 <div>
+ 
 ## Contact:
  
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#p/+34625191020)
@@ -16,7 +17,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jbeCEshTur)
 
 </div>
+
 ## Skills:</h2>
+
 ### OS:
  
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -58,7 +61,7 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.linux.org/)
 [![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-### Stats:
+## Stats:
  
 ![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&theme=blue-green)
 ![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
