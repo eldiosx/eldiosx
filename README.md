@@ -73,10 +73,30 @@
 
 <div align="center">
  
-![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&theme=blue-green)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&hide_border=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&hide_border=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiosx&hide_border=true&show_icons=true" />
+</picture>
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eldiosx&theme=blue-green)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eldiosx&hide_border=true&show_icons=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eldiosx&hide_border=true&show_icons=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eldiosx&hide_border=true&show_icons=true&show_icons=true" />
+</picture>
 
 </div>
