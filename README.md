@@ -6,6 +6,8 @@
 
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.gitlab.io/cv/) 
 
+[GitLab](https://gitlab.com/eldiosx/subscription)
+
 <div>
  
 ## Contact:
