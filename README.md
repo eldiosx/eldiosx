@@ -61,7 +61,7 @@
 [![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.linux.org/)
 
 
-## Stats (My main activity is in GitLab):
+## Stats (My main activity is in [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/eldiosx/) )
 
 <div align="center">
 
